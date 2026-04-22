@@ -1,0 +1,167 @@
+[
+  {
+    "ip": "185.117.73.211",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "107.148.200.130",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "104.21.82.192",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "104.21.91.111",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "172.67.132.249",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "13.224.214.82",
+    "rdns": "server-13-224-214-82.phl51.r.cloudfront.net",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "13.224.214.88",
+    "rdns": "server-13-224-214-88.phl51.r.cloudfront.net",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "8.209.255.168",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "188.114.96.20",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "165.84.180.69",
+    "rdns": "165084180069.ctinets.com",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "45.153.231.32",
+    "rdns": "vm1760825.example.com",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "45.144.29.242",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "165.22.98.219",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "8.46.116.152",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "45.140.146.169",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "8.46.116.155",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "91.208.184.78",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "103.140.238.249",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "34.139.13.46",
+    "rdns": "46.13.139.34.bc.googleusercontent.com",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "193.38.54.110",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "66.42.98.220",
+    "rdns": "66.42.98.220.vultrusercontent.com",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "74.82.201.8",
+    "rdns": "74.82.201.8.16clouds.com",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "8.46.116.216",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "51.89.88.105",
+    "rdns": "wssl.kurd-cloud.com",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "91.200.101.244",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "164.90.148.88",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "104.233.224.227",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "192.161.161.108",
+    "rdns": "",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "45.142.212.47",
+    "rdns": "vm429450.example.com",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "108.61.215.75",
+    "rdns": "108.61.215.75.vultrusercontent.com",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "45.77.3.234",
+    "rdns": "45.77.3.234.vultrusercontent.com",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "149.28.19.86",
+    "rdns": "149.28.19.86.vultrusercontent.com",
+    "threat_score": "LOW"
+  },
+  {
+    "ip": "43.240.14.26",
+    "rdns": "scdc.worra.com",
+    "threat_score": "LOW"
+  }
+]
