@@ -1,0 +1,6 @@
+{
+  "permissions": {
+    "allow": ["Read(./reports/**)", "Bash(tshark:*)"],
+    "deny":  ["WebFetch", "Bash(curl:*)", "Edit(./configs/**)"]
+  }
+}
